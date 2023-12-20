@@ -1,6 +1,6 @@
 Name:		texlive-realhats
-Version:	63595
-Release:	2
+Version:	66924
+Release:	1
 Summary:	Put real hats on symbols instead of ^
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/realhats
