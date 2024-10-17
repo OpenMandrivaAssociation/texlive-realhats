@@ -3,7 +3,7 @@ Version:	66924
 Release:	1
 Summary:	Put real hats on symbols instead of ^
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/realhats
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/realhats
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/realhats.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/realhats.doc.r%{version}.tar.xz
